@@ -35,4 +35,14 @@ The Food Security Dashboard is a web application built using React.js that provi
 
 ## Screenshots
 
-[Insert screenshots of the dashboard here]
+### Main Dashboard
+
+![Main Dashboard](https://github.com/irasharma13/Food-Security-/assets/36807339/6d433b6b-3aa0-4047-a866-07b0cbf8e983)
+
+Description: This screenshot shows the main dashboard of the Food Security Dashboard application. Users can view interactive graphs, select different countries or regions, and explore various food security indicators.
+
+### Chatbot
+
+![Chatbot](https://github.com/irasharma13/Food-Security-/assets/36807339/81d748f2-764c-455e-a4b5-984535a0e197)
+
+Description: This screenshot displays the chatbot feature integrated into the Food Security Dashboard. Users can interact with the chatbot to ask questions and receive real-time assistance regarding food security data and trends.
