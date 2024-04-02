@@ -10,7 +10,7 @@ const port = 3001;
 app.post("/", (req, res) => {
   const { prompt } = req.body;
   const data = {
-    sourceId: "cha_yNtdthJNqC7yNXWtLS0DK",
+    sourceId: "cha_XXXXsource_idXXXX",
     messages: [
       {
         role: "user",
@@ -21,7 +21,7 @@ app.post("/", (req, res) => {
 
   const config = {
     headers: {
-      "x-api-key": "sec_8lRaRaXrosCsCs23z8b08ub7TSfoKWdO",
+      "x-api-key": "XXXXapi-keyXXXX",
       "Content-Type": "application/json",
     },
   };
